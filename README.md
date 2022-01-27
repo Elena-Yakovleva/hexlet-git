@@ -1,2 +1,1 @@
-Hello, Hexlet!
-My name is Lena
+No code No pain
